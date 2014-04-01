@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/gonzalezreal/Overcoat'
   s.authors  = { 'Guillermo Gonzalez' => 'gonzalezreal@icloud.com' }
   s.social_media_url = 'https://twitter.com/gonzalezreal'
-  s.source   = { :git => 'https://github.com/gonzalezreal/Overcoat.git', :tag => '1.2.1' }
+  s.source   = { :git => 'https://github.com/redant-mobile/Overcoat.git' }
   s.source_files = 'Overcoat'
   s.requires_arc = true
 
